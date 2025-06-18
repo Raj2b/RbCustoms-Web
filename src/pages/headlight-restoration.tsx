@@ -6,6 +6,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 import { useEffect } from "react";
+import ServicesDropdown from "@/components/ServicesDropsdown";
 
 export default function HeadlightRestoration() {
   useEffect(() => {
@@ -93,6 +94,7 @@ export default function HeadlightRestoration() {
             </ul>
             <h3 className="text-red-600 text-xl mt-4">Pricing:</h3>
             <p>Starting at <strong>$89.99</strong> (including both headlights).</p>
+            <ServicesDropdown />
           </div>
 
           {/* Carousel */}

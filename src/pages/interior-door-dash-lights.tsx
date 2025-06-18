@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import ServicesDropdown from "@/components/ServicesDropsdown";
 
 export default function InteriorDoorDashLights() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -79,6 +80,7 @@ export default function InteriorDoorDashLights() {
               <p>
                 Starting at <strong>$249.99</strong> (including installation).
               </p>
+              <ServicesDropdown />
             </div>
           </div>
 

@@ -4,6 +4,7 @@ import Script from 'next/script'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import { useEffect } from 'react'
+import ServicesDropdown from '@/components/ServicesDropsdown'
 
 export default function StarlightHeadliner() {
   useEffect(() => {
@@ -86,6 +87,7 @@ export default function StarlightHeadliner() {
 
             <h3 className="text-red-500 text-xl">Pricing:</h3>
             <p>Starting at <strong>$799.99</strong> (depending on vehicle size and customization options).</p>
+            <ServicesDropdown />
           </div>
 
           <div className="flex-1 max-w-xl relative overflow-hidden rounded-lg">

@@ -5,6 +5,7 @@ import Image from "next/image";
 import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import ServicesDropdown from "@/components/ServicesDropsdown";
 
 export default function InteriorFootwellLights() {
   return (
@@ -74,6 +75,7 @@ export default function InteriorFootwellLights() {
                 Starting at <strong>$94.99</strong> (including installation) for most 4 door sedans and compact SUVs.
                 Larger trucks and SUVs may cost more.
               </p>
+              <ServicesDropdown />
             </div>
           </div>
 
@@ -90,6 +92,7 @@ export default function InteriorFootwellLights() {
               <span className="dot w-3 h-3 bg-white rounded-full cursor-pointer"></span>
             </div>
           </div>
+          
         </div>
       </section>
 

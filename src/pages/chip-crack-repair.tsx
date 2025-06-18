@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 import { useEffect, useState } from "react";
+import ServicesDropdown from "@/components/ServicesDropsdown";
 
 export default function WindshieldRepair() {
   const images = ["/images/CM23.png", "/images/CM24.png", "/images/CM25.png"];
@@ -70,6 +71,7 @@ export default function WindshieldRepair() {
               <p>
                 Chips start at <strong>$59.99</strong> per repair (depending on size and location).<br />
                 Cracks start at <strong>$99.99</strong> per repair (depending on size and location).
+                <ServicesDropdown />
               </p>
             </div>
           </div>
