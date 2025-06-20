@@ -1,12 +1,12 @@
-# 🚗 RB Customs — Custom Automotive Lighting & Styling
+#  RB Customs — Custom Automotive Lighting & Styling
 
 The official source code for **RB Customs**, a modern automotive styling brand I built from the ground up. It specializes in **custom interior and exterior lighting solutions** for vehicles, with a clean and responsive frontend powered by modern web technologies.
 
-✨ **Live Site:** [https://rbcustoms.info](https://rbcustoms.info)
+ **Live Site:** [https://rbcustoms.info](https://rbcustoms.info)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js** (React + TypeScript)
 - **Tailwind CSS** for styling
@@ -16,22 +16,22 @@ The official source code for **RB Customs**, a modern automotive styling brand I
 
 ---
 
-## 📸 Key Features
+## Key Features
 
-- ⚡ Fully responsive layout with mobile & desktop navigation
-- 🖼️ Hero image carousel showcasing builds
-- 🧩 Modular React components (Navbar, Footer, etc.)
-- 🛠️ Individual service pages:
+- Fully responsive layout with mobile & desktop navigation
+- Hero image carousel showcasing builds
+- Modular React components (Navbar, Footer, etc.)
+- Individual service pages:
   - Interior Footwell Lights
   - Door and Dash Lighting
   - Headlight Restoration
   - Windshield Chip Repair
-- 📷 Integrated Instagram presence
-- 🔍 SEO-friendly structure with custom domain
+- Integrated Instagram presence
+- SEO-friendly structure with custom domain
 
 ---
 
-# 📁 Folder Structure
+# Folder Structure
 
 The project is organized into the following directories:
 
@@ -45,7 +45,7 @@ The project is organized into the following directories:
   - `styles/`  
     _Tailwind CSS setup_
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/yourusername/rbcustoms.git
@@ -54,15 +54,15 @@ npm install
 npm run dev
 ```
 
-## 🧠 Inspiration
+## Inspiration
 
 RB Customs was built to modernize and scale **my** automotive customization brand, offering a sleek user experience and showcasing my passion for detail-driven modifications.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For custom lighting installs or collaboration:
 
-- 📧 **Email:** rbcustoms111@gmail.com
-- 📷 **Instagram:** [@rbcustoms._](https://instagram.com/rbcustoms._)
+- **Email:** rbcustoms111@gmail.com
+- **Instagram:** [@rbcustoms._](https://instagram.com/rbcustoms._)
