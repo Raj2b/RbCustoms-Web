@@ -1,40 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🚗 RB Customs — Custom Automotive Lighting & Styling
 
-## Getting Started
+The official source code for **RB Customs**, a modern automotive styling brand specializing in **custom interior and exterior lighting solutions**.
 
-First, run the development server:
+✨ **Live Site:** [https://rbcustoms.info](https://rbcustoms.info)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js** (React + TypeScript)
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+- **React Icons** for UI elements
+- **Deployed on** Vercel
+
+---
+
+## 📸 Key Features
+
+- ⚡ Fully responsive layout with mobile & desktop navigation
+- 🖼️ Hero image carousel showcasing builds
+- 🧩 Modular React components (Navbar, Footer, etc.)
+- 🛠️ Individual service pages:
+  - Interior Footwell Lights
+  - Door and Dash Lighting
+  - Headlight Restoration
+  - Windshield Chip Repair
+- 📷 Integrated Instagram presence
+- 🔍 SEO-friendly structure with custom domain
+
+---
+
+# 📁 Folder Structure
+
+The project is organized into the following directories:
+
+- `src/`
+  - `components/`  
+    _Reusable UI components (e.g., Navbar, Footer, Cards)_
+  - `pages/`  
+    _Main and service pages (e.g., index.tsx, etc.)_
+  - `public/`  
+    _Static assets (e.g., images, icons)_
+  - `styles/`  
+    _Tailwind CSS setup_
+
+## 📦 Getting Started
 
 ```bash
+git clone https://github.com/yourusername/rbcustoms.git
+cd rbcustoms
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧠 Inspiration
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+RB Customs was built to modernize and scale **my** automotive customization brand, offering a sleek user experience and showcasing my passion for detail-driven modifications.
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 📬 Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+For custom lighting installs or collaboration:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+- 📧 **Email:** rbcustoms111@gmail.com
+- 📷 **Instagram:** [@rbcustoms._](https://instagram.com/rbcustoms._)
