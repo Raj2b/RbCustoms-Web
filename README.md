@@ -1,6 +1,6 @@
 # 🚗 RB Customs — Custom Automotive Lighting & Styling
 
-The official source code for **RB Customs**, my own modern automotive styling brand specializing in **custom interior and exterior lighting solutions**.
+The official source code for **RB Customs**, a modern automotive styling brand I built from the ground up. It specializes in **custom interior and exterior lighting solutions** for vehicles, with a clean and responsive frontend powered by modern web technologies.
 
 ✨ **Live Site:** [https://rbcustoms.info](https://rbcustoms.info)
 
